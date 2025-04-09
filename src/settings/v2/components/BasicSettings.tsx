@@ -11,7 +11,7 @@ import { HelpCircle, Key, Loader2 } from "lucide-react";
 import { Notice } from "obsidian";
 import React, { useState } from "react";
 import ApiKeyDialog from "./ApiKeyDialog";
-import { PlusSettings } from "@/settings/v2/components/PlusSettings";
+// import { PlusSettings } from "@/settings/v2/components/PlusSettings";
 import { TooltipProvider, Tooltip, TooltipContent, TooltipTrigger } from "@/components/ui/tooltip";
 import { createPlusPageUrl } from "@/plusUtils";
 import { getModelDisplayWithIcons } from "@/components/ui/model-display";
