@@ -100,6 +100,8 @@ export const BasicSettings: React.FC = () => {
 
   return (
     <div className="space-y-4">
+      {/* <PlusSettings/> /*}
+      
       {/* General Section */}
       <section>
         <div className="text-xl font-bold mb-3">General</div>
